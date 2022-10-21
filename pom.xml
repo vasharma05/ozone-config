@@ -27,7 +27,7 @@
   </properties>
 
   <dependencies>
-   
+
     <dependency>
       <groupId>net.mekomsolutions</groupId>
       <artifactId>eip-routes-senaite</artifactId>
@@ -50,7 +50,7 @@
         <artifactId>maven-dependency-plugin</artifactId>
         <version>2.8</version>
         <executions>
-         
+
           <!-- EIP routes -->
           <execution>
             <id>unpack-eip-routes-senaite</id>
@@ -80,7 +80,7 @@
             </configuration>
           </execution>
         </executions>
-        
+
       </plugin>
 
       <plugin>
@@ -159,7 +159,6 @@
           </execution>
         </executions>
       </plugin>
-
       <!-- packaging the distro as a installable/deployable file -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
