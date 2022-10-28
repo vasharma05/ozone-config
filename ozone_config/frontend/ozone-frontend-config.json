@@ -1,0 +1,18 @@
+{
+  "@openmrs/esm-primary-navigation-app": {
+    "externalRefLinks": [
+      {
+        "title": "Odoo",
+        "redirect": "${ODOO_PUBLIC_URL}"
+      },
+      {
+        "title": "Senaite",
+        "redirect": "${SENAITE_PUBLIC_URL}"
+      },
+      {
+        "title": "Superset",
+        "redirect": "${SUPERSET_PUBLIC_URL}"
+      }
+    ]
+  }
+}
