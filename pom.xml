@@ -23,8 +23,8 @@
     <distro.baseDir>${project.build.directory}/${project.artifactId}-${project.version}</distro.baseDir>
     <distro.eipRoutesDir>${distro.baseDir}/eip_config</distro.eipRoutesDir>
     <!-- EIP routes -->
-    <eipRoutesSenaite>1.0.0-SNAPSHOT</eipRoutesSenaite>
-    <eipRoutesOdoo>1.0.0-SNAPSHOT</eipRoutesOdoo>
+    <eipRoutesSenaite>1.0.0</eipRoutesSenaite>
+    <eipRoutesOdoo>1.0.0</eipRoutesOdoo>
   </properties>
 
   <dependencies>
