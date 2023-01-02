@@ -35,13 +35,14 @@ init.165171AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Milligram per meter squared,1,uom.prod
 init.162370AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Patch,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162383AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Biscuit wafer,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162355AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Container,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
-init.162399AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Tablet,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
+init.1513AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Tablet,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162379AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Teaspoon,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162377AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Syringe,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162335AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Ampule(s),1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162366AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Microgram,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162401AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Kit,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Inhaler,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
+init.162399AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Each,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162398AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Dose pack,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162397AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Cartridge,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162396AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Box,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
