@@ -15,13 +15,19 @@
       }
     ],
     "logo": {
-      "src": "${OPENMRS_PUBLIC_URL}/ozone/frontend/ozone_logo_white.svg",
+      "src": "ozone/ozone_logo_white.svg",
       "alt": "ozone-logo"
     }
   },
   "@openmrs/esm-login-app": {
     "logo": {
-      "src": "${OPENMRS_PUBLIC_URL}/ozone/frontend/ozone_logo_white.svg",
+      "src": "ozone/ozone_logo_color.svg",
+      "alt": "ozone-logo"
+    }
+  },
+  "@openmrs/esm-patient-chart-app": {
+    "logo": {
+      "src": "ozone/ozone_logo_white.svg",
       "alt": "ozone-logo"
     }
   }
